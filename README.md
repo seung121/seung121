@@ -1,5 +1,4 @@
-### Hi there 👋
-
+## Become a high-touch developer! 👩‍💻
 <!--
 **seung121/seung121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+#### 🏤 : [Kumoh National Institute of Technology](https://www.kumoh.ac.kr/ko/index.do)
+
+#### 📚 : [Computer Engineering](https://ce.kumoh.ac.kr/ce/index.do)
+
+#### 👶 : 2000.01.21
+
+
