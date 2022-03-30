@@ -1,4 +1,4 @@
-## Become a high-touch developer! 👩‍💻
+## Become a High-touch web developer! 👩‍💻
 <!--
 **seung121/seung121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
